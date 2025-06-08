@@ -1,40 +1,141 @@
-<h1 align="center">Hi 👋, I'm Vincent Omondi</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+# 🌐 VINCENT OMONDI
+```
+██╗   ██╗██╗███╗   ██╗ ██████╗███████╗███╗   ██╗████████╗
+██║   ██║██║████╗  ██║██╔════╝██╔════╝████╗  ██║╚══██╔══╝
+██║   ██║██║██╔██╗ ██║██║     █████╗  ██╔██╗ ██║   ██║   
+╚██╗ ██╔╝██║██║╚██╗██║██║     ██╔══╝  ██║╚██╗██║   ██║   
+ ╚████╔╝ ██║██║ ╚████║╚██████╗███████╗██║ ╚████║   ██║   
+  ╚═══╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vincent-omondi&label=Profile%20views&color=0e75b6&style=flat" alt="vincent-omondi" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincent-omondi" alt="vincent-omondi" /></a> </p>
+### 🚀 `FULLSTACK_ARCHITECT.exe` | `SYSTEM_ENGINEER.dll` | `CODE_SYNTHESIZER.bin`
 
-<p align="left"> <a href="https://twitter.com/vinomondi_1" target="blank"><img src="https://img.shields.io/twitter/follow/vinomondi_1?logo=twitter&style=for-the-badge" alt="vinomondi_1" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=vincent-omondi&label=NEURAL%20CONNECTIONS&color=00ff41&style=for-the-badge)](https://github.com/vincent-omondi)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vincent-omondi&theme=matrix&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [social network](https://github.com/abrakingoo/social_network)
+</div>
 
-- 🌱 I’m currently learning **Rust**
+---
 
-- 👨‍💻 All of my projects are available at [https://vincentomondi.vercel.app/](https://vincentomondi.vercel.app/)
+## 🔮 **QUANTUM STATUS** | `System Online`
 
-- 📝 I regularly write articles on [https://dev.to/vinomondi/building-unstoppable-systems-go-122-and-temporals-durable-execution-revolution-5k8](https://dev.to/vinomondi/building-unstoppable-systems-go-122-and-temporals-durable-execution-revolution-5k8)
+```yaml
+current_mission: "Architecting the Social Network of Tomorrow"
+repository: "https://github.com/abrakingoo/social_network"
+learning_protocol: "Rust Systems Programming"
+neural_network_state: "ACTIVE_DEVELOPMENT"
+```
 
-- 💬 Ask me about **react go nextjs**
+## 🧬 **DIGITAL DNA** | `Core Specifications`
 
-- 📫 How to reach me **vincentomondi1002@gmail.com**
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### ⚡ **ACTIVE PROTOCOLS**
+```bash
+> initializing_social_network.exe
+> mastering_rust_systems.rs
+> optimizing_neural_pathways.go
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/vinomondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vinomondi" height="30" width="40" /></a>
-<a href="https://twitter.com/vinomondi_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinomondi_1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vincent-omondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-omondi" height="30" width="40" /></a>
-</p>
+</td>
+<td align="center" width="50%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🌐 **DATA STREAMS**
+```bash
+> portfolio: vincentomondi.vercel.app
+> blog_feed: dev.to/vinomondi
+> contact: vincentomondi1002@gmail.com
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-omondi&show_icons=true&locale=en&layout=compact" alt="vincent-omondi" /></p>
+</td>
+</tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincent-omondi&show_icons=true&locale=en" alt="vincent-omondi" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-omondi&" alt="vincent-omondi" /></p>
+## 🎯 **EXPERTISE MATRIX** | `Technologies Mastered`
+
+<div align="center">
+
+### 💻 **PRIMARY LANGUAGES**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&labelColor=000000)
+
+### 🚀 **FRAMEWORKS & ENGINES**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=000000)
+
+### 🗄️ **DATABASE SYSTEMS**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)
+
+### ☁️ **CLOUD INFRASTRUCTURE**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+
+### 📊 **MONITORING & DESIGN**
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=000000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000)
+
+</div>
+
+---
+
+## 📡 **NEURAL NETWORK CONNECTIONS**
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/vinomondi_1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/vincent-omondi)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vinomondi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vincentomondi.vercel.app/)
+
+</div>
+
+---
+
+## 📊 **SYSTEM ANALYTICS** | `Performance Metrics`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vincent-omondi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_radius=10" alt="Vincent's GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vincent-omondi&theme=radical&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff&border_radius=10" alt="Vincent's Streak Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-omondi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=ffffff&border_radius=10" alt="Vincent's Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔋 **SYSTEM STATUS: OPTIMAL**
+
+```
+▓▓▓▓▓▓▓▓▓▓ 100% OPERATIONAL
+```
+
+### 💬 **READY FOR COLLABORATION**
+*Specializing in: React.js • Go • Next.js • System Architecture*
+
+---
+
+**`>>> END TRANSMISSION <<<`**
+
+</div>
