@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🚀 `FULLSTACK_ARCHITECT.exe` | `SYSTEM_ENGINEER.dll` | `CODE_SYNTHESIZER.bin`
+### 🚀 `FULLSTACK_ARCHITECT` | `SYSTEM_ENGINEER` | `CODE_SYNTHESIZER`
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vincent-omondi&label=NEURAL%20CONNECTIONS&color=00ff41&style=for-the-badge)](https://github.com/vincent-omondi)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vincent-omondi&theme=matrix&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🔮 **QUANTUM STATUS** | `System Online`
+## **STATUS** | `System Online`
 
 ```yaml
 current_mission: "Architecting the Social Network of Tomorrow"
@@ -28,7 +28,7 @@ learning_protocol: "Rust Systems Programming"
 neural_network_state: "ACTIVE_DEVELOPMENT"
 ```
 
-## 🧬 **DIGITAL DNA** | `Core Specifications`
+## 🧬 `Core Specifications`
 
 <table align="center">
 <tr>
