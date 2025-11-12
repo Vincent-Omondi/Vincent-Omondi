@@ -1,12 +1,4 @@
 # 🌐 VINCENT OMONDI
-```
-██╗   ██╗██╗███╗   ██╗ ██████╗███████╗███╗   ██╗████████╗
-██║   ██║██║████╗  ██║██╔════╝██╔════╝████╗  ██║╚══██╔══╝
-██║   ██║██║██╔██╗ ██║██║     █████╗  ██╔██╗ ██║   ██║   
-╚██╗ ██╔╝██║██║╚██╗██║██║     ██╔══╝  ██║╚██╗██║   ██║   
- ╚████╔╝ ██║██║ ╚████║╚██████╗███████╗██║ ╚████║   ██║   
-  ╚═══╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   
-```
 
 <div align="center">
 
@@ -17,79 +9,44 @@
 
 </div>
 
----
-
-## **STATUS** | `System Online`
-
-```yaml
-current_mission: "Architecting the Social Network of Tomorrow"
-repository: "https://github.com/abrakingoo/social_network"
-learning_protocol: "Rust Systems Programming"
-neural_network_state: "ACTIVE_DEVELOPMENT"
-```
-
-## 🧬 `Core Specifications`
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### ⚡ **ACTIVE PROTOCOLS**
-```bash
-> initializing_social_network.exe
-> mastering_rust_systems.rs
-> optimizing_neural_pathways.go
-```
-
-</td>
-<td align="center" width="50%">
-
-### 🌐 **DATA STREAMS**
-```bash
-> portfolio: vincentomondi.vercel.app
-> blog_feed: dev.to/vinomondi
-> contact: vincentomondi1002@gmail.com
-```
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎯 **EXPERTISE MATRIX** | `Technologies Mastered`
 
 <div align="center">
 
 ### 💻 **PRIMARY LANGUAGES**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&labelColor=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=000000)
 
 ### 🚀 **FRAMEWORKS & ENGINES**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=000000)
 
 ### 🗄️ **DATABASE SYSTEMS**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)
 
 ### ☁️ **CLOUD INFRASTRUCTURE**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 
 ### 📊 **MONITORING & DESIGN**
+
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000)
 
@@ -97,7 +54,7 @@ neural_network_state: "ACTIVE_DEVELOPMENT"
 
 ---
 
-## 📡 **NEURAL NETWORK CONNECTIONS**
+## 📡 **SOCIAL CONNECTIONS**
 
 <div align="center">
 
@@ -115,28 +72,6 @@ neural_network_state: "ACTIVE_DEVELOPMENT"
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vincent-omondi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_radius=10" alt="Vincent's GitHub Stats" />
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vincent-omondi&theme=radical&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff&border_radius=10" alt="Vincent's Streak Stats" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-omondi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=ffffff&border_radius=10" alt="Vincent's Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🔋 **SYSTEM STATUS: OPTIMAL**
-
-```
-▓▓▓▓▓▓▓▓▓▓ 100% OPERATIONAL
-```
-
-### 💬 **READY FOR COLLABORATION**
-*Specializing in: React.js • Go • Next.js • System Architecture*
-
----
-
-**`>>> END TRANSMISSION <<<`**
-
-</div>
